@@ -1,8 +1,7 @@
-
-
 ## Attribution
 
 This code is adapted from https://github.com/bastianallgeier/gantti
+This code is adapted from https://github.com/swatkins/laravel-gantt
 
 ## License: 
 
