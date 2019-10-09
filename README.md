@@ -1,3 +1,8 @@
+
+## Install: 
+
+composer require gantt/gantt-presupuesto
+
 ## Attribution
 
 This code is adapted from https://github.com/bastianallgeier/gantti
