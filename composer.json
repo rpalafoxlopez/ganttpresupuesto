@@ -12,12 +12,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Gantt\\GanttPresupuesto\\": "src/"
+            "Gantt\\GanttPresupuesto\\": "src/",            
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Gantt\\Tests\\": "tests/"
+            "Gantt\\Tests\\": "tests/",
+   	    "Gantt\\GanttPresupuesto\\Calendar\\": "calendar/",
         }
     }
 }
