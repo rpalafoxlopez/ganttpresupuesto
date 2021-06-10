@@ -1,6 +1,6 @@
 {
     "name": "gantt/gantt-presupuesto",
-    "description": "Paquete para mostrar diagrama de gantt",
+    "description": "Paquete para mostrar diagrama de gantt, versión editada",
     "license": "MIT",
      "authors": [
         {
@@ -8,7 +8,7 @@
             "email": "rafael@palafox.me"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {

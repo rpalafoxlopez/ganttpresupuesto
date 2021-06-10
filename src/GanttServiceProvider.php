@@ -25,6 +25,6 @@ class GanttServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        //Registro
     }
 }
