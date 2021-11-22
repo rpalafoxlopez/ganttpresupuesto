@@ -1,0 +1,24 @@
+{
+    "name": "gantt/gantt-presupuesto",
+    "description": "Paquete para mostrar diagrama de gantt, versión editada",
+    "license": "MIT",
+     "authors": [
+        {
+            "name": "Rafael Palafox",
+            "email": "rafael@palafox.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gantt\\GanttPresupuesto\\": "src/",            
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Gantt\\Tests\\": "tests/",
+   	    "Gantt\\GanttPresupuesto\\Calendar\\": "calendar/",
+        }
+    }
+}
