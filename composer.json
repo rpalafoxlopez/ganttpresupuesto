@@ -1,6 +1,6 @@
 {
     "name": "gantt/gantt-presupuesto",
-    "description": "Paquete para mostrar diagrama de gantt, versión editada",
+    "description": "Paquete para mostrar diagrama de gantt, versión editada con Calendar",
     "license": "MIT",
      "authors": [
         {
@@ -18,7 +18,7 @@
     "autoload-dev": {
         "psr-4": {
             "Gantt\\Tests\\": "tests/",
-   	        "Gantt\\GanttPresupuesto\\Calendar\\": "calendar/"
+   	        "Gantt\\GanttPresupuesto\\Calendar\\": "Calendar/"
         }
     }
 }
