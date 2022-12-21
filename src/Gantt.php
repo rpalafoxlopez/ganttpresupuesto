@@ -35,7 +35,7 @@ class Gantt {
         
         $this->cellstyle = 'style="width: ' . $this->options['cellwidth'] . 'px; height: ' . $this->options['cellheight'] . 'px"';
 
-        // parse data and find first and last date
+        // parse data and find first and last date .
         $this->parse();
         
     }
